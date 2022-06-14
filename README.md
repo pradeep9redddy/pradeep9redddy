@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm V V Pradeep Reddy</h1>
+<h1 align="center">Hi 👋, I'm V Venkata Pradeep Reddy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeep9redddy&label=Profile%20views&color=0e75b6&style=flat" alt="pradeep9redddy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradeep9redddy" alt="pradeep9redddy" /></a> </p>
@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working on **Autonomous Vehicle Driving Assistance System**
 
-- 📫 How to reach me **v.pradeepvsr@gmail.com**
+- 📫 How to reach me **venuthurlapradeep@pesu.pes.edu**
+
+- 📄 Know about my experiences [https://bit.ly/3Of8KyN](https://bit.ly/3Of8KyN)
 
 - ⚡ Fun fact **I think I am funny**
 
